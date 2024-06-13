@@ -29,6 +29,7 @@ Decreases the balance of the specified address by the specified amount.
 Ensures that the balance of the specified address is greater than or equal to the amount to be burned.
 
 compile the code solidity compiler pragma solidity 0.8.18 
+
 then goto deploy&run transaction and deploy the code.
 
 
