@@ -2,6 +2,7 @@
 
 
 First in all open remix application for compile code solidity ethereum blockchain.
+
 This is a basic token contract written in Solidity for the Ethereum blockchain. It includes the following features:
 
 Public Variables:
